@@ -21,8 +21,7 @@
                 android:id="@+id/recipe_img"
                 android:layout_width="616dp"
                 android:layout_height="287dp"
-                android:contentDescription="@+id/recipe_img"
-                app:srcCompat="@color/common_google_signin_btn_text_light_pressed" />
+                android:contentDescription="@+id/recipe_img" />
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
