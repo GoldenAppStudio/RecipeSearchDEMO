@@ -29,8 +29,9 @@
             android:layout_height="83dp"
             android:gravity="center"
             android:padding="10dp"
+            android:textStyle="bold"
             android:text="@string/recipe_title"
-            android:textColor="#2d2d2d"
+            android:textColor="#000"
             android:textSize="13sp" />
     </LinearLayout>
 </androidx.cardview.widget.CardView>
